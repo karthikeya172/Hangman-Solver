@@ -1,4 +1,4 @@
-# ML-Hackathon
+# Hangman solver
 
 This repository contains code, models and data used for reinforcement learning experiments (a DQN agent) and a small Hidden Markov Model (HMM) experiment. It includes training and evaluation scripts, pretrained model checkpoints, training logs / reward curves, and helper utilities.
 
